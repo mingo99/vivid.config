@@ -54,8 +54,8 @@ core:
     font-style: bold
 text:
   special:
-    foreground: background_color
-    background: yellow
+    foreground: yellow
+    # background: yellow
   todo:
     font-style: bold
   licenses:
